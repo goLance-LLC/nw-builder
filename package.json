@@ -37,7 +37,7 @@
     "application"
   ],
   "devDependencies": {
-    "decompress-zip": "0.3.0",
+    "decompress-zip": "goLance-LLC/decompress-zip#6f1cb6b01a93becb815a88c1ea6df8bb99282150",
     "eol": "^0.9.0",
     "nock": "^9.0.5",
     "redtape": "~1.0.0",
